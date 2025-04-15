@@ -1,0 +1,14 @@
+C:\Users\Computador\source\exercicios-c#\ex015\bin\Debug\net8.0\ex015.exe
+C:\Users\Computador\source\exercicios-c#\ex015\bin\Debug\net8.0\ex015.deps.json
+C:\Users\Computador\source\exercicios-c#\ex015\bin\Debug\net8.0\ex015.runtimeconfig.json
+C:\Users\Computador\source\exercicios-c#\ex015\bin\Debug\net8.0\ex015.dll
+C:\Users\Computador\source\exercicios-c#\ex015\bin\Debug\net8.0\ex015.pdb
+C:\Users\Computador\source\exercicios-c#\ex015\obj\Debug\net8.0\ex015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computador\source\exercicios-c#\ex015\obj\Debug\net8.0\ex015.AssemblyInfoInputs.cache
+C:\Users\Computador\source\exercicios-c#\ex015\obj\Debug\net8.0\ex015.AssemblyInfo.cs
+C:\Users\Computador\source\exercicios-c#\ex015\obj\Debug\net8.0\ex015.csproj.CoreCompileInputs.cache
+C:\Users\Computador\source\exercicios-c#\ex015\obj\Debug\net8.0\ex015.dll
+C:\Users\Computador\source\exercicios-c#\ex015\obj\Debug\net8.0\refint\ex015.dll
+C:\Users\Computador\source\exercicios-c#\ex015\obj\Debug\net8.0\ex015.pdb
+C:\Users\Computador\source\exercicios-c#\ex015\obj\Debug\net8.0\ex015.genruntimeconfig.cache
+C:\Users\Computador\source\exercicios-c#\ex015\obj\Debug\net8.0\ref\ex015.dll

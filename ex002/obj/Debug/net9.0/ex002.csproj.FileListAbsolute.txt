@@ -1,0 +1,14 @@
+C:\Users\Computador\source\repos\ex002\bin\Debug\net9.0\ex002.exe
+C:\Users\Computador\source\repos\ex002\bin\Debug\net9.0\ex002.deps.json
+C:\Users\Computador\source\repos\ex002\bin\Debug\net9.0\ex002.runtimeconfig.json
+C:\Users\Computador\source\repos\ex002\bin\Debug\net9.0\ex002.dll
+C:\Users\Computador\source\repos\ex002\bin\Debug\net9.0\ex002.pdb
+C:\Users\Computador\source\repos\ex002\obj\Debug\net9.0\ex002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computador\source\repos\ex002\obj\Debug\net9.0\ex002.AssemblyInfoInputs.cache
+C:\Users\Computador\source\repos\ex002\obj\Debug\net9.0\ex002.AssemblyInfo.cs
+C:\Users\Computador\source\repos\ex002\obj\Debug\net9.0\ex002.csproj.CoreCompileInputs.cache
+C:\Users\Computador\source\repos\ex002\obj\Debug\net9.0\ex002.dll
+C:\Users\Computador\source\repos\ex002\obj\Debug\net9.0\refint\ex002.dll
+C:\Users\Computador\source\repos\ex002\obj\Debug\net9.0\ex002.pdb
+C:\Users\Computador\source\repos\ex002\obj\Debug\net9.0\ex002.genruntimeconfig.cache
+C:\Users\Computador\source\repos\ex002\obj\Debug\net9.0\ref\ex002.dll

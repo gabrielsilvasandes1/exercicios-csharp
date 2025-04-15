@@ -1,0 +1,15 @@
+C:\Users\Computador\source\exercicios-csharp\ex012\obj\Debug\net9.0\ex012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computador\source\exercicios-csharp\ex012\obj\Debug\net9.0\ex012.AssemblyInfoInputs.cache
+C:\Users\Computador\source\exercicios-csharp\ex012\obj\Debug\net9.0\ex012.AssemblyInfo.cs
+C:\Users\Computador\source\exercicios-csharp\ex012\obj\Debug\net9.0\ex012.csproj.CoreCompileInputs.cache
+C:\Users\Computador\source\exercicios-csharp\ex012\obj\Debug\net9.0\ex012.sourcelink.json
+C:\Users\Computador\source\exercicios-csharp\ex012\bin\Debug\net9.0\ex012.exe
+C:\Users\Computador\source\exercicios-csharp\ex012\bin\Debug\net9.0\ex012.deps.json
+C:\Users\Computador\source\exercicios-csharp\ex012\bin\Debug\net9.0\ex012.runtimeconfig.json
+C:\Users\Computador\source\exercicios-csharp\ex012\bin\Debug\net9.0\ex012.dll
+C:\Users\Computador\source\exercicios-csharp\ex012\bin\Debug\net9.0\ex012.pdb
+C:\Users\Computador\source\exercicios-csharp\ex012\obj\Debug\net9.0\ex012.dll
+C:\Users\Computador\source\exercicios-csharp\ex012\obj\Debug\net9.0\refint\ex012.dll
+C:\Users\Computador\source\exercicios-csharp\ex012\obj\Debug\net9.0\ex012.pdb
+C:\Users\Computador\source\exercicios-csharp\ex012\obj\Debug\net9.0\ex012.genruntimeconfig.cache
+C:\Users\Computador\source\exercicios-csharp\ex012\obj\Debug\net9.0\ref\ex012.dll

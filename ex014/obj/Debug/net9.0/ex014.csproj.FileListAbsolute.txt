@@ -1,0 +1,14 @@
+C:\Users\Computador\source\exercicios-c#\ex014\bin\Debug\net9.0\ex014.exe
+C:\Users\Computador\source\exercicios-c#\ex014\bin\Debug\net9.0\ex014.deps.json
+C:\Users\Computador\source\exercicios-c#\ex014\bin\Debug\net9.0\ex014.runtimeconfig.json
+C:\Users\Computador\source\exercicios-c#\ex014\bin\Debug\net9.0\ex014.dll
+C:\Users\Computador\source\exercicios-c#\ex014\bin\Debug\net9.0\ex014.pdb
+C:\Users\Computador\source\exercicios-c#\ex014\obj\Debug\net9.0\ex014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computador\source\exercicios-c#\ex014\obj\Debug\net9.0\ex014.AssemblyInfoInputs.cache
+C:\Users\Computador\source\exercicios-c#\ex014\obj\Debug\net9.0\ex014.AssemblyInfo.cs
+C:\Users\Computador\source\exercicios-c#\ex014\obj\Debug\net9.0\ex014.csproj.CoreCompileInputs.cache
+C:\Users\Computador\source\exercicios-c#\ex014\obj\Debug\net9.0\ex014.dll
+C:\Users\Computador\source\exercicios-c#\ex014\obj\Debug\net9.0\refint\ex014.dll
+C:\Users\Computador\source\exercicios-c#\ex014\obj\Debug\net9.0\ex014.pdb
+C:\Users\Computador\source\exercicios-c#\ex014\obj\Debug\net9.0\ex014.genruntimeconfig.cache
+C:\Users\Computador\source\exercicios-c#\ex014\obj\Debug\net9.0\ref\ex014.dll
