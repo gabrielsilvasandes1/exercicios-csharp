@@ -1,0 +1,15 @@
+C:\Users\Computador\source\exercicios-csharp\ex019\bin\Debug\net8.0\ex019.exe
+C:\Users\Computador\source\exercicios-csharp\ex019\bin\Debug\net8.0\ex019.deps.json
+C:\Users\Computador\source\exercicios-csharp\ex019\bin\Debug\net8.0\ex019.runtimeconfig.json
+C:\Users\Computador\source\exercicios-csharp\ex019\bin\Debug\net8.0\ex019.dll
+C:\Users\Computador\source\exercicios-csharp\ex019\bin\Debug\net8.0\ex019.pdb
+C:\Users\Computador\source\exercicios-csharp\ex019\obj\Debug\net8.0\ex019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computador\source\exercicios-csharp\ex019\obj\Debug\net8.0\ex019.AssemblyInfoInputs.cache
+C:\Users\Computador\source\exercicios-csharp\ex019\obj\Debug\net8.0\ex019.AssemblyInfo.cs
+C:\Users\Computador\source\exercicios-csharp\ex019\obj\Debug\net8.0\ex019.csproj.CoreCompileInputs.cache
+C:\Users\Computador\source\exercicios-csharp\ex019\obj\Debug\net8.0\ex019.sourcelink.json
+C:\Users\Computador\source\exercicios-csharp\ex019\obj\Debug\net8.0\ex019.dll
+C:\Users\Computador\source\exercicios-csharp\ex019\obj\Debug\net8.0\refint\ex019.dll
+C:\Users\Computador\source\exercicios-csharp\ex019\obj\Debug\net8.0\ex019.pdb
+C:\Users\Computador\source\exercicios-csharp\ex019\obj\Debug\net8.0\ex019.genruntimeconfig.cache
+C:\Users\Computador\source\exercicios-csharp\ex019\obj\Debug\net8.0\ref\ex019.dll
